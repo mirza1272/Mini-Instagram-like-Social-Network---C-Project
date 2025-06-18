@@ -29,16 +29,6 @@ A complete C++ implementation of a simplified Instagram-like social network plat
 ## 🛠️ Technical Implementation
 
 ### 🧠 Data Structures
-```mermaid
-graph TD
-    A[Binary Search Tree] -->|User Storage| B[O(log n) Search]
-    C[Linked Lists] --> D[Friend Lists]
-    C --> E[Messages]
-    C --> F[Notifications]
-    G[Stacks] --> H[Post Management]
-    I[2D Arrays] --> J[Connection Matrix]
-
-### 🧠 Data Structures
 Component	Description	File
 User System	Profiles, auth, security	user.h/cpp
 Social Graph	Friends, requests, feed	instagram.h/cpp
