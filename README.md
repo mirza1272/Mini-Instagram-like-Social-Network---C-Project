@@ -40,14 +40,7 @@ Notifications	Real-time alerts	notificationList
 ## 🚀 Getting Started
 # Prerequisites
 C++22 compatible compiler
-
 Basic make utility
-
-## Installation
-git clone https://github.com/yourusername/instagram-cpp.git
-cd instagram-cpp
-make
-./instagram
 
 
 🖥️ Usage
