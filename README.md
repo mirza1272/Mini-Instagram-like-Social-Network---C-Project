@@ -1,4 +1,4 @@
-# Mini-Instagram-like-Social-Network---C-Project
+# Mini-Instagram-like-Social-Network-C++-Project
 This is a complete C++ implementation of a simplified Instagram-like social network platform. The project demonstrates core social media functionalities including user accounts, friend connections, posts, messaging, and notifications - all implemented using key data structures and algorithms.
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![OOP](https://img.shields.io/badge/OOP-Yes-success.svg)
